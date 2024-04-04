@@ -18,6 +18,9 @@ Feel free to explore the repository, dive into the code, and follow along with m
 - **Project 2:** [pattern_adv_Q.java]
   - Description: [Few advanced pattern questions!]
 
+- **Project 3:** [PandC.java]
+  - Description: [A simple permutation and combination calculator!]
+
   
 To explore the projects in this repository, simply navigate to each project's directory and view the source code. 
 Feel free to clone this repository to your local machine to experiment with the code or contribute to it!
