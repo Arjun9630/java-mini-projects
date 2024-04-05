@@ -21,6 +21,9 @@ Feel free to explore the repository, dive into the code, and follow along with m
 - **Project 3:** [PandC.java]
   - Description: [A simple permutation and combination calculator!]
 
+- **Project 4:** [DecimalToBinaryConverter.java]
+  - Description: [A simple program to convert decimal numbers to binary, including integer and fractional parts, with user-defined precision (No of places after decimal point)!]
+
   
 To explore the projects in this repository, simply navigate to each project's directory and view the source code. 
 Feel free to clone this repository to your local machine to experiment with the code or contribute to it!
