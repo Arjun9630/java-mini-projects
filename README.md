@@ -25,7 +25,7 @@ Feel free to explore the repository, dive into the code, and follow along with m
   - Description: [A simple program to convert decimal numbers to binary, including integer and fractional parts, with user-defined precision (No of places after decimal point)!]
 
 - **Project 5:** [AgeCalculator.java]
-  - Description: [A simple age calculator wwhich takes the birth month and year and returns the age!]
+  - Description: [A simple age calculator which takes the birth month and year and returns the age!]
 
   
 To explore the projects in this repository, simply navigate to each project's directory and view the source code. 
