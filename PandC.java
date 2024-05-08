@@ -23,7 +23,7 @@ public class PandC{
         return f;
     }
 
-    public static void main(String args[]){
+    public static void main(String args[]){ //main method
         Scanner in = new Scanner(System.in);
         int n, r;
         float ncr, npr;
